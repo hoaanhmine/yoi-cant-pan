@@ -1,0 +1,4 @@
+Value 1: The VG
+
+value 1 = 1: Turn on VG
+Value 1 = 2: Turn off VG

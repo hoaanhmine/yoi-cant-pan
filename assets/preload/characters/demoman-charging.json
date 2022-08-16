@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "demo charge left"
+		},
+		{
+			"offsets": [
+				0,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "demo charge down"
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "demo charge up"
+		},
+		{
+			"offsets": [
+				0,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "demo charge right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "demo charge run"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-60
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "demo charge laugh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-110
+			],
+			"anim": "stop",
+			"fps": 24,
+			"name": "demo charge stop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				30
+			],
+			"anim": "attack1",
+			"fps": 24,
+			"name": "demo charge pan 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "attack2",
+			"fps": 24,
+			"name": "demo charge pan 2",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/demoman charging",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "demoman",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

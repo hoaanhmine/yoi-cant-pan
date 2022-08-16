@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "demo left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-35
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "demo idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-90
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "demo right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "demo up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "demo down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				160,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "intro",
+			"indices": [],
+			"name": "demo intro"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-40
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "demo laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Demoman",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "demoman",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

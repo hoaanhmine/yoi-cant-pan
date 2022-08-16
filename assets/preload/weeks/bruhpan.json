@@ -1,0 +1,30 @@
+{
+	"storyName": "go fuck yourself",
+	"difficulties": "pan",
+	"hideFreeplay": false,
+	"weekBackground": "sonic exe",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"you-cant-run",
+			"demoman",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "pan"
+}

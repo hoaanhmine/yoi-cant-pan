@@ -1,0 +1,196 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Play Animation",
+						"intro",
+						"dad"
+					]
+				]
+			],
+			[
+				8571.42857142857,
+				[
+					[
+						"RedVG",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"demoman-charging"
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"Play Animation",
+						"attack1",
+						"dad"
+					]
+				]
+			],
+			[
+				126535.714285714,
+				[
+					[
+						"Play Animation",
+						"attack2",
+						"dad"
+					]
+				]
+			],
+			[
+				129401.785714286,
+				[
+					[
+						"Play Animation",
+						"attack2",
+						"dad"
+					]
+				]
+			],
+			[
+				129964.285714286,
+				[
+					[
+						"Play Animation",
+						"attack1",
+						"dad"
+					]
+				]
+			],
+			[
+				132857.142857143,
+				[
+					[
+						"Play Animation",
+						"attack1",
+						"dad"
+					]
+				]
+			],
+			[
+				133312.5,
+				[
+					[
+						"Play Animation",
+						"attack2",
+						"dad"
+					]
+				]
+			],
+			[
+				136285.714285714,
+				[
+					[
+						"Play Animation",
+						"attack2",
+						"dad"
+					]
+				]
+			],
+			[
+				136821.428571428,
+				[
+					[
+						"Play Animation",
+						"attack1",
+						"dad"
+					]
+				]
+			],
+			[
+				139714.285714286,
+				[
+					[
+						"Play Animation",
+						"attack1",
+						"dad"
+					]
+				]
+			],
+			[
+				140142.857142857,
+				[
+					[
+						"Play Animation",
+						"attack2",
+						"dad"
+					]
+				]
+			],
+			[
+				143142.857142857,
+				[
+					[
+						"Play Animation",
+						"attack2",
+						"dad"
+					]
+				]
+			],
+			[
+				143625,
+				[
+					[
+						"Play Animation",
+						"attack1",
+						"dad"
+					]
+				]
+			],
+			[
+				146571.428571428,
+				[
+					[
+						"Play Animation",
+						"attack1",
+						"dad"
+					]
+				]
+			],
+			[
+				147107.142857143,
+				[
+					[
+						"Play Animation",
+						"attack2",
+						"dad"
+					]
+				]
+			],
+			[
+				150000,
+				[
+					[
+						"Play Animation",
+						"attack2",
+						"dad"
+					]
+				]
+			],
+			[
+				150428.571428571,
+				[
+					[
+						"Play Animation",
+						"attack1",
+						"dad"
+					]
+				]
+			]
+		]
+	}
+}
